@@ -1,3 +1,8 @@
+# Database files
+*.db
+*.sql
+*.sqlite
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
